@@ -1,0 +1,22 @@
+.w-100 {
+  width: 100%;
+}
+
+.header {
+  margin-top: 2rem;
+  background-color: transparent !important;
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  margin: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+.content-header {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+}
